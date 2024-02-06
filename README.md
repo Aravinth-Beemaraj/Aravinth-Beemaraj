@@ -1,18 +1,32 @@
 <h1 align="center">Hi 👋, I'm Aravinth B</h1>
 <h3 align="center">A passionate frontend developer from India...</h3>
-<img align ="right" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.W98u7294dE2joYWDzM8p4QHaEK?w=750&h=422&rs=1&pid=ImgDetMain">
+<img align ="center" alt="coding" width="400" src="https://th.bing.com/th/id/OIP.W98u7294dE2joYWDzM8p4QHaEK?w=750&h=422&rs=1&pid=ImgDetMain">
+<br>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aravinth-beemaraj&label=Profile%20views&color=0e75b6&style=flat" alt="aravinth-beemaraj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravinth-beemaraj" alt="aravinth-beemaraj" /></a> </p>
 
-- 📫 How to reach me **aravind242003@gmail.com**
+- 🌱 I’m currently learning **Frontend Developer**
+
+- 📝 I regularly write articles on [Instagram](Instagram)
+
+- 💬 Ask me about **HTML,CSS,JS**
+
+- 📫 How to reach me **aravind24200@gmail.com**
+
+- 📄 Know about my experiences [.](.)
+
+- ⚡ Fun fact **Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/aravinth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aravinth" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aravinth b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aravinth b" height="30" width="40" /></a>
+<a href="https://fb.com/mass aravinth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mass aravinth" height="30" width="40" /></a>
 <a href="https://instagram.com/aravind_.46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aravind_.46" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/aravind242003" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="aravind242003" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
