@@ -40,5 +40,4 @@
 
 
 
-
-![snake gif](https://github.com/Aravinth-Beemaraj/Aravinth-Beemaraj/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Aravinth-Beemaraj/Aravinth-Beemaraj/.github/workflows/snake.yml)
