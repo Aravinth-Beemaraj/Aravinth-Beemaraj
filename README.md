@@ -38,6 +38,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aravinth-beemaraj&" alt="aravinth-beemaraj" /></p>
 
 
-
-
-![snake gif](https://github.com/Aravinth-Beemaraj/Aravinth-Beemaraj/.github/workflows/snake.yml)
+![snake animation](https://github.com/Aravinth-Beemaraj/Aravinth-Beemaraj/blob/output/github-contribution-grid-snake2.svg)
