@@ -17,7 +17,10 @@
 - 📄 Know about my experiences [.](.)
 
 - ⚡ Fun fact **Funny**
+
  <img align ="center" alt="coding" width="400"  height="300" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTk1bnNpcXl4aGZ2dTlhOGhzMnVvZTAzM3B0YXh5OG03NXh3cmhmcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
