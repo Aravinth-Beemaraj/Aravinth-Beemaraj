@@ -5,6 +5,8 @@
 <br>
 
 <h3 align="center">A passionate web developer from India...</h3>
+<br>
+<img src="https://miro.medium.com/max/1400/1*8ec0-crehv5zepqkBK1Wdw.gif">
 
 
 
