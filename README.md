@@ -4,7 +4,7 @@
 </h1>
 <h3 align="centre">A passionate web developer from India...</h3>
 <br>
-<img  src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1708750687~exp=1708751287~hmac=ecafbebf661a49489af186854c5d373193c1a4d2dd7eb661b10f6141cbf5359c" height="750" width="1400" >
+<img  src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1708750687~exp=1708751287~hmac=ecafbebf661a49489af186854c5d373193c1a4d2dd7eb661b10f6141cbf5359c" height="5000" width="1200" >
 
 
 
