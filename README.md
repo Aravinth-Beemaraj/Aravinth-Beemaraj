@@ -6,7 +6,7 @@
 
 <h3 align="centre">A passionate web developer from India...</h3>
 <br>
-<img  src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1708750687~exp=1708751287~hmac=ecafbebf661a49489af186854c5d373193c1a4d2dd7eb661b10f6141cbf5359c" height="300" width="500" >
+<img  src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1708750687~exp=1708751287~hmac=ecafbebf661a49489af186854c5d373193c1a4d2dd7eb661b10f6141cbf5359c" height="350" width="450" >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravinth-beemaraj" alt="aravinth-beemaraj" /></a> </p>
 
