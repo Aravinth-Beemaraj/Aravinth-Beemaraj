@@ -21,7 +21,7 @@
 - 📄 Know about my experiences [.](.)
 
 - ⚡ Fun fact **Funny**
-<br>
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/aravinth" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aravinth" height="30" width="40" /></a>
