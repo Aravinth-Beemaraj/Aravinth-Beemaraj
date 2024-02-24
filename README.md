@@ -2,13 +2,11 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+B.Aravinth+!;" />
 </h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aravinth-beemaraj&label=Profile%20views&color=0e75b6&style=flat" alt="aravinth-beemaraj" /> </p>
+
 <h3 align="centre">A passionate web developer from India...</h3>
 <br>
 <img  src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=740&t=st=1708750687~exp=1708751287~hmac=ecafbebf661a49489af186854c5d373193c1a4d2dd7eb661b10f6141cbf5359c" height="400" width="500" >
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aravinth-beemaraj&label=Profile%20views&color=0e75b6&style=flat" alt="aravinth-beemaraj" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravinth-beemaraj" alt="aravinth-beemaraj" /></a> </p>
 
