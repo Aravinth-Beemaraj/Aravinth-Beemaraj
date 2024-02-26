@@ -7,7 +7,7 @@
 
 <h3 align="centre">A passionate web developer from India...</h3>
 <br>
-<img  src="https://img.freepik.com/premium-photo/cartoon-working-day-scene-illustration-generated-by-ai_972969-18197.jpg?w=740" height="700" width="1000" >
+<img  src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif" height="700" width="1000" >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravinth-beemaraj" alt="aravinth-beemaraj" /></a> </p>
 
