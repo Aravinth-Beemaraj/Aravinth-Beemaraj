@@ -1,4 +1,4 @@
-![MasterHead](https://th.bing.com/th/id/R.75ea38495d3a5bc0c90316b57f9bbfb5?rik=CKmgcCEhXQE1OA&riu=http%3a%2f%2fwww.pramukhdigital.com%2fwp-content%2fuploads%2f2018%2f07%2fNew-PNC-Animated-Banners.gif&ehk=fs6XGSkrODbDz9LuU2tZgUw5aQd76DxwLvAaGpktUZI%3d&risl=&pid=ImgRaw&r=0)
+![MasterHead](https://th.bing.com/th/id/R.75ea38495d3a5bc0c90316b57f9bbfb5?rik=CKmgcCEhXQE1OA&riu=http%3a%2f%2fwww.pramukhdigital.com%2fwp-content%2fuploads%2f2018%2f07%2fNew-PNC-Animated-Banners.gif&ehk=fs6XGSkrODbDz9LuU2tZgUw5aQd76DxwLvAaGpktUZI%3d&risl=&pid=ImgRaw&r=0 height="400" width="250")
 <!--<h1 align="center">Hi 👋, I'm B.Aravinth</h1>-->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aravinth+🚀...+!;" />
