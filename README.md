@@ -7,7 +7,7 @@
 
 <h3 align="centre">A passionate web developer from India...</h3>
 <br>
-<img  src="https://www.lambdatest.com/resources/images/news24.gif" height="400" width="650" >
+<img  src="https://www.lambdatest.com/resources/images/news24.gif" height="200" width="350" >
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravinth-beemaraj" alt="aravinth-beemaraj" /></a> </p>
 
